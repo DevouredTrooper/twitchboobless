@@ -1,4 +1,4 @@
-Unwanted Twitch block list to filter out all of the thirst traps twitch refuses to ban cause they generate way too much income. 
+Unwanted Twitch blacklist to filter out all of the thirst traps twitch refuses to ban cause they generate way too much income. 
 
 Download the extension. -> Import the JSON. -> Done 
 
