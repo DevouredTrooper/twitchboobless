@@ -9,5 +9,6 @@ This is maintained manually, no automation involved.
 The extensions : 
 
 https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld
+
 https://addons.mozilla.org/en-US/firefox/addon/unwanted-twitch/
 
