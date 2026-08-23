@@ -10,6 +10,7 @@ This is maintained manually, no automation involved.
 The decisions are made quickly basically by just looking on obvious cases quickly seen on the previews.
 Due to the severity of the infestation i spend not more than 2-3 seconds on average per entry, and i am aggressively steam-rolling through them so keep that in mind. 
 
+Count : 106 items in the blacklist. 
 
 The extensions : 
 [Download for Chrome](https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld) 
