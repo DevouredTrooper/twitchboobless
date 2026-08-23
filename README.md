@@ -19,3 +19,6 @@ The extensions :
 [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/unwanted-twitch/)
 
 
+
+<h2><b>How to contribute</b></h2>
+Just block them and when you build up a decently sized list, export it and send the file in issues. 
