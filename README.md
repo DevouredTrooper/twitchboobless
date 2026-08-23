@@ -1,5 +1,5 @@
 Twitch blacklist to filter out all of the thirst traps twitch refuses to ban cause they generate way too much income. 
-I will update it from time to time as i encountered more of them, the ones i saw got instantly filtered and i need to wait for Twitch to shove more of them into my face.
+I will update it from time to time as i encounter more of them, the ones i saw got instantly filtered and i need to wait for Twitch to shove more of them into my face.
 This is maintained manually, no automation involved. 
 <h2><b>How to use</b></h2>
 
