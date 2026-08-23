@@ -1,6 +1,6 @@
 Twitch blacklist to filter out all of the thirst traps twitch refuses to ban cause they generate way too much income. 
 
-<b>How to use.</b>
+<b>How to use</b>
 
 Download the extension --> Import the JSON --> Done 
 
@@ -10,7 +10,7 @@ This is maintained manually, no automation involved.
 The decisions are made quickly basically by just looking on obvious cases quickly seen on the previews.
 Due to the severity of the infestation i spend not more than 2-3 seconds on average per entry, and i am aggressively steam-rolling through them so keep that in mind. 
 
-Count : 106 items in the blacklist. 
+<b>Count : 106 items in the blacklist</b>
 
 The extensions : 
 [Download for Chrome](https://chromewebstore.google.com/detail/unwanted-twitch/egbpddkgpjmliolmpjenjomflclekjld) 
